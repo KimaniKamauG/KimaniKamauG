@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @K9-CoDeR
 - 👀 I’m interested in Data Science and SoftWare Development
 
-- 🌱 I’m currently learning 'PYTHON!'
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning AWS Cloud Conputing.
+- 💞️ I’m looking to collaborate on long-term and short-term projects.
+- 📫 How to reach me kimkamaug@gmail.com
+- 
 
 <!---
 KimaniKamauG/KimaniKamauG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
