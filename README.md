@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @K9-CoDeR
-- 👀 I’m interested in Data Science and SoftWare Development
+- 👀 I’m interested in Data Science and Software Engineering
 
-- 🌱 I’m currently learning AWS Cloud Conputing and Back-End Web Development.
+- 🌱 I’m currently learning AWS Cloud Computing and Back-End Software Engineering.
 - 💞️ I’m looking to collaborate on long-term and short-term projects.
 - 📫 How to reach me kimkamaug@gmail.com
 - 
